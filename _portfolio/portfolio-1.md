@@ -1,9 +1,11 @@
 ---
 title: "Working Papers"
-excerpt: "What Events Matter For Exchange Rate Volatility ? (with Hedibert Lopes, Draft available upon request)"
+excerpt: "What Events Matter For Exchange Rate Volatility ? (with Hedibert Lopes, Draft available upon request)/Dynamic copula models with variable selection (with Hedibert Lopes)/ Forecasting using DFM: A sparse principal components approach (with Marcio Laurini) "
 collection: portfolio
 ---
 
 What Events Matter For Exchange Rate Volatility ? (with Hedibert Lopes, Draft available upon request)
 
+Dynamic copula models with variable selection (with Hedibert Lopes)
 
+Forecasting using DFM: A sparse principal components approach (with Marcio Laurini)
