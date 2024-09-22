@@ -5,6 +5,6 @@ excerpt: "1) Currency Carry Under Falling Stars (with Mohammed M. Kaebi)<br><br>
 collection: portfolio
 ---
 
-1) Currency Carry Under Falling Stars (with Mohammed M. Kaebi)<br><br>2) Firm Characteristics and Stock Returns in Brazil (with R. Ribeiro, J. Costa, M. M. Kaebi and T. Nobrega)
+1) Currency Carry Under Falling Stars (with Mohammed M. Kaebi)<br> 2) Firm Characteristics and Stock Returns in Brazil (with R. Ribeiro, J. Costa, M. M. Kaebi and T. Nobrega)
 
 
