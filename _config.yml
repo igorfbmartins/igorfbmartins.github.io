@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Igor F B Martins"
+title                    : "Igor’s webpage"
 title_separator          : "-"
 name                     : &name "Igor F B Martins"
 description              : &description "personal description"
