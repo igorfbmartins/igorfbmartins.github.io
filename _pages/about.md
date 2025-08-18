@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **postdoctoral researcher** in Economics at [Örebro University](https://www.oru.se/) where my research focuses on developing and applying **Bayesian econometrics** methods to finance and macroeconomics. 
+I am a **postdoctoral researcher** in financial econometrics at [Örebro University](https://www.oru.se/) where my research focuses on developing and applying **Bayesian econometrics** methods to finance and macroeconomics. 
 
 Prior to joining Örebro University, I completed my PhD at Insper under the supervision of [Hedibert Lopes](https://hedibert.org/). 
 
