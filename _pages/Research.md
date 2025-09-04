@@ -19,7 +19,7 @@ redirect_from:
 - **Block-Trading and Central Bank FX Transactions Announcements: Implications for Short-Term Volatility and Returns.** with Antonio Caluz, Victor Alexandrino and Bruno Cavani. [*Under Review - European Economic Review*](/files/BandeiraMartins2025.pdf)
   
 ## Work in Progress
-- **Carry trade Under the Stars,** with Mohammed M. Kaebi. 
+- **Long-Run Interest Rate Differentials and the Profitability of Currency Carry,** with Mohammed M. Kaebi. (Draft will be available soon)
 - **Stochastic Dynamic Correlations with Exogenous Shifts,** with Sune Karlsson, Tamas Kiss and Stepan Mazur.
 - **Intraday crude oil volatility: assessing the impact of economic announcements and mixed-frequency data ,** with Audrone Virbickaite, Hoang Nguyen and Hedibert Lopes.
 - **Realized Stochastic Semivariances,**.
