@@ -15,7 +15,7 @@ redirect_from:
 ## Working Papers
 - [**Disaggregated impulse response functions via the classifier-Lasso**](/files/BandeiraMartins2025.pdf) with Miguel Bandeira. *R&R - Journal of Applied Econometrics*.
 - [**What events matter for exchange rate volatility**](https://doi.org/10.48550/arXiv.2411.16244) with Hedibert Lopes. *R&R - Quarterly Review of Economics and Finance*.
-- [**Good Volatility, Bad Volatility and the Cross Section of Commodity Returns**](https://dx.doi.org/10.2139/ssrn.5390453) with Tamas Kiss. *R&R - Finance Research Letters*].
+- [**Good Volatility, Bad Volatility and the Cross Section of Commodity Returns**](https://dx.doi.org/10.2139/ssrn.5390453) with Tamas Kiss. *R&R - Finance Research Letters*.
 - [**Block-Trading and Central Bank FX Transactions Announcements: Implications for Short-Term Volatility and Returns.**](/files/BandeiraMartins2025.pdf) with Antonio Caluz, Victor Alexandrino and Bruno Cavani. *Under Review - European Economic Review*
   
 ## Work in Progress
