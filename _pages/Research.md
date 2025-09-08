@@ -10,7 +10,7 @@ redirect_from:
 # Research
 
 ## Publications
-- [**Stochastic Volatility Models with Skewness Selection**]((https://doi.org/10.3390/e26020142)) with Hedibert Lopes, 2024. *Entropy*.
+- [**Stochastic Volatility Models with Skewness Selection**](https://doi.org/10.3390/e26020142) with Hedibert Lopes, 2024. *Entropy*.
 
 ## Working Papers
 - [**Disaggregated impulse response functions via the classifier-Lasso**](/files/BandeiraMartins2025.pdf) with Miguel Bandeira. *R&R - Journal of Applied Econometrics*.
