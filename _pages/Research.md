@@ -10,7 +10,7 @@ redirect_from:
 # Research
 
 ## Publications
-- [**Good Volatility, Bad Volatility and the Cross Section of Commodity Returns**](https://www.sciencedirect.com/science/article/pii/S1544612325019105) *Finance Research Letters, 2025* (with Tamas Kiss).
+- [**Good Volatility, Bad Volatility and the Cross Section of Commodity Returns**](https://doi.org/10.1016/j.frl.2025.108656) *Finance Research Letters, 2025* (with Tamas Kiss).
 - [**Stochastic Volatility Models with Skewness Selection**](https://doi.org/10.3390/e26020142) *Entropy, 2024* (with Hedibert Lopes).
 
 ## Working Papers
