@@ -10,7 +10,7 @@ redirect_from:
 # Research
 
 ## Publications
-- [**What events matter for exchange rate volatility**](https://doi.org/10.48550/arXiv.2411.16244) *Quarterly Review of Economics and Finance, 2025* (with Hedibert Lopes). Accepted, Published version coming soon.
+- [**What Events Matter For Exchange Rate Volatility**](https://doi.org/10.48550/arXiv.2411.16244) *Quarterly Review of Economics and Finance, 2025* (with Hedibert Lopes). Accepted, Published version coming soon.
 - [**Good Volatility, Bad Volatility and the Cross Section of Commodity Returns**](https://doi.org/10.1016/j.frl.2025.108656) *Finance Research Letters, 2025* (with Tamas Kiss).
 - [**Stochastic Volatility Models with Skewness Selection**](https://doi.org/10.3390/e26020142) *Entropy, 2024* (with Hedibert Lopes).
 
