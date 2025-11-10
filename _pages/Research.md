@@ -10,7 +10,7 @@ redirect_from:
 # Research
 
 ## Publications
-- [**What Events Matter For Exchange Rate Volatility**](https://doi.org/10.48550/arXiv.2411.16244) *Quarterly Review of Economics and Finance, 2025* (with Hedibert Lopes). (Accepted, Published version coming soon).
+- [**What Events Matter For Exchange Rate Volatility**](https://doi.org/10.1016/j.qref.2025.102073) *The Quarterly Review of Economics and Finance, 2025* (with Hedibert Lopes).
 - [**Good Volatility, Bad Volatility and the Cross Section of Commodity Returns**](https://doi.org/10.1016/j.frl.2025.108656) *Finance Research Letters, 2025* (with Tamas Kiss).
 - [**Stochastic Volatility Models with Skewness Selection**](https://doi.org/10.3390/e26020142) *Entropy, 2024* (with Hedibert Lopes).
 
@@ -22,7 +22,7 @@ redirect_from:
     
 ## Work in Progress
 - **Volume-driven time-of-day effects in intraday volatility models** (with Audrone Virbickaite, Hoang Nguyen and Hedibert Lopes). Draft coming soon!
-- **Stochastic Dynamic Correlations with Exogenous Shifts** (with Sune Karlsson, Tamas Kiss and Stepan Mazur).
+- **Stochastic Dynamic Correlations with Exogenous Shifts** (with Sune Karlsson, Tamas Kiss and Stepan Mazur). New draft coming soon!
 - **Block-Trading and Central Bank FX Transactions Announcements: Implications for Short-Term Volatility and Returns.** (with Antonio Caluz, Victor Alexandrino and Bruno Cavani).
 - **Realized Stochastic Semivariances**.
 - **Portfolio Management in an Eventfull World**.
