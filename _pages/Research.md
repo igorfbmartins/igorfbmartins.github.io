@@ -17,12 +17,12 @@ redirect_from:
 ## Working Papers
 - [**Disaggregated impulse response functions via the classifier-Lasso**](/files/BandeiraMartins2025.pdf) *R&R - Journal of Applied Econometrics* (with Miguel Bandeira).
 - [**Fast and Slow Level Shifts in Intraday Stochastic Volatility**](https://swopec.hhs.se/oruesi/abs/oruesi2025_012.htm) *Submitted - Journal of Financial Econometrics* (with Audrone Virbickaite, Hoang Nguyen and Hedibert Lopes).
+- [**Volume-driven time-of-day effects in intraday volatility models**](https://swopec.hhs.se/oruesi/abs/oruesi2025_014.htm) *Submitted - International Journal of Forecasting* (with Audrone Virbickaite, Hoang Nguyen and Hedibert Lopes).
 - [**Long-Run Interest Rate Differentials and the Profitability of Currency Carry**](https://swopec.hhs.se/oruesi/abs/oruesi2025_010.htm) *Submitted - Journal of Empirical Finance* (with Mohammed M. Kaebi).
 <!--- [**Block-Trading and Central Bank FX Transactions Announcements: Implications for Short-Term Volatility and Returns.**](/files/BandeiraMartins2025.pdf) *Under Review - European Economic Review* (with Antonio Caluz, Victor Alexandrino and Bruno Cavani). -->
     
 ## Work in Progress
-- **Volume-driven time-of-day effects in intraday volatility models** (with Audrone Virbickaite, Hoang Nguyen and Hedibert Lopes). Draft coming soon!
 - **Stochastic Dynamic Correlations with Exogenous Shifts** (with Sune Karlsson, Tamas Kiss and Stepan Mazur). New draft coming soon!
-- **Block-Trading and Central Bank FX Transactions Announcements: Implications for Short-Term Volatility and Returns.** (with Antonio Caluz, Victor Alexandrino and Bruno Cavani).
-- **Realized Stochastic Semivariances**.
-- **Portfolio Management in an Eventfull World**.
+- **Nowcasting intraday volatility** (with Audrone Virbickaite and Hoang Nguyen).
+- **Unrestricted order-invariant dynamic combination of covariance matrices**.
+- **Portfolio Management in an Eventful World**.
