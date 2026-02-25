@@ -43,8 +43,8 @@ redirect_from:
 (with Tamas Kiss)
 - **A decision synthesis approach to the factor zoo**\
 (with Rafael Alcantara and Pedro Lima)
-- **Bayesian predictive synthesis for binary outcomes**\
-- **Unrestricted order-invariant dynamic combination of covariance matrices**\
-- **Portfolio Management in an Eventful World**\
+- **Bayesian predictive synthesis for binary outcomes**
+- **Unrestricted order-invariant dynamic combination of covariance matrices**
+- **Portfolio Management in an Eventful World**
 <!--- - **Volume-driven time series predictability: Evidence from futures markets**
 (with Andre Portela Santos, Audrone Virbickaite and Martina Zaharieva ) -->
