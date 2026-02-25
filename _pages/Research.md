@@ -44,5 +44,5 @@ redirect_from:
 - **Bayesian predictive synthesis for binary outcomes**\
 - **Unrestricted order-invariant dynamic combination of covariance matrices**\
 - **Portfolio Management in an Eventful World**\
-- <!--- - **Volume-driven time series predictability: Evidence from futures markets**
+<!--- - **Volume-driven time series predictability: Evidence from futures markets**
 (with Andre Portela Santos, Audrone Virbickaite and Martina Zaharieva ) -->
