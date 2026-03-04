@@ -23,7 +23,7 @@ redirect_from:
 - [**Volume-driven time-of-day effects in intraday volatility models**](https://swopec.hhs.se/oruesi/abs/oruesi2025_014.htm)\
 *R&R - International Journal of Forecasting* (with Audrone Virbickaite, Hoang Nguyen and Hedibert Lopes).
 - [**Fast and Slow Level Shifts in Intraday Stochastic Volatility**](https://swopec.hhs.se/oruesi/abs/oruesi2025_012.htm)\
-*Awaiting Referee Scores - Journal of Financial Econometrics* (with Audrone Virbickaite, Hoang Nguyen and Hedibert Lopes).
+*R&R - Journal of Financial Econometrics* (with Audrone Virbickaite, Hoang Nguyen and Hedibert Lopes).
 - [**Long-Run Interest Rate Differentials and the Profitability of Currency Carry**](https://swopec.hhs.se/oruesi/abs/oruesi2025_010.htm)\
 *Under Review - Journal of Empirical Finance* (with Mohammed M. Kaebi).
 - [**Stochastic dynamic correlations with exogenous shifts**](/files/MKKM_2026.pdf)\
