@@ -41,8 +41,6 @@ redirect_from:
 (with Bruno Levy and Hedibert Lopes)
 - **Directional predictability in commodity markets**\
 (with Tamas Kiss)
-- **A decision synthesis approach to the factor zoo**\
-(with Rafael Alcantara and Pedro Lima)
 - **Bayesian predictive synthesis for binary outcomes**
 - **Unrestricted order-invariant dynamic combination of covariance matrices**
 - **Portfolio Management in an Eventful World**
