@@ -25,7 +25,7 @@ redirect_from:
 - [**Fast and Slow Level Shifts in Intraday Stochastic Volatility**](https://swopec.hhs.se/oruesi/abs/oruesi2025_012.htm)\
 *R&R - Journal of Financial Econometrics* (with Audrone Virbickaite, Hoang Nguyen and Hedibert Lopes).
 - [**Long-Run Interest Rate Differentials and the Profitability of Currency Carry**](https://swopec.hhs.se/oruesi/abs/oruesi2025_010.htm)\
-*Under Review - Journal of Empirical Finance* (with Mohammed M. Kaebi).
+*Submitted* (with Mohammed M. Kaebi).
 - [**Stochastic dynamic correlations with exogenous shifts**](/files/MKKM_2026.pdf)\
 (with Sune Karlsson, Tamas Kiss and Stepan Mazur). New draft coming soon!
 <!--- [**Block-Trading and Central Bank FX Transactions Announcements: Implications for Short-Term Volatility and Returns.**](/files/BandeiraMartins2025.pdf) *Under Review - European Economic Review* (with Antonio Caluz, Victor Alexandrino and Bruno Cavani). -->
@@ -39,8 +39,6 @@ redirect_from:
 (with Alessandro Celani)
 - **Dynamic momentum learning**\
 (with Bruno Levy and Hedibert Lopes)
-- **Directional predictability in commodity markets**\
-(with Tamas Kiss)
 - **Bayesian predictive synthesis for binary outcomes**
 - **Unrestricted order-invariant dynamic combination of covariance matrices**
 - **Portfolio Management in an Eventful World**
