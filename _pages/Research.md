@@ -9,14 +9,6 @@ redirect_from:
 
 # Research
 
-## Publications
-- [**What Events Matter For Exchange Rate Volatility**](https://doi.org/10.1016/j.qref.2025.102073)\
-*Quarterly Review of Economics and Finance, 2025* (with Hedibert Lopes).
-- [**Good Volatility, Bad Volatility and the Cross Section of Commodity Returns**](https://doi.org/10.1016/j.frl.2025.108656)\
-*Finance Research Letters, 2025* (with Tamas Kiss).
-- [**Stochastic Volatility Models with Skewness Selection**](https://doi.org/10.3390/e26020142)\
-*Entropy, 2024* (with Hedibert Lopes).
-
 ## Working Papers
 - [**Disaggregated impulse response functions via the classifier-Lasso**](/files/BandeiraMartins2025.pdf)\
 *R&R - Journal of Applied Econometrics* (with Miguel Bandeira).
@@ -28,7 +20,14 @@ redirect_from:
 *Submitted* (with Mohammed M. Kaebi).
 - [**Stochastic dynamic correlations with exogenous shifts**](/files/MKKM_2026.pdf)\
 (with Sune Karlsson, Tamas Kiss and Stepan Mazur). New draft coming soon!
-<!--- [**Block-Trading and Central Bank FX Transactions Announcements: Implications for Short-Term Volatility and Returns.**](/files/BandeiraMartins2025.pdf) *Under Review - European Economic Review* (with Antonio Caluz, Victor Alexandrino and Bruno Cavani). -->
+
+## Publications
+- [**What Events Matter For Exchange Rate Volatility**](https://doi.org/10.1016/j.qref.2025.102073)\
+*Quarterly Review of Economics and Finance, 2025* (with Hedibert Lopes).
+- [**Good Volatility, Bad Volatility and the Cross Section of Commodity Returns**](https://doi.org/10.1016/j.frl.2025.108656)\
+*Finance Research Letters, 2025* (with Tamas Kiss).
+- [**Stochastic Volatility Models with Skewness Selection**](https://doi.org/10.3390/e26020142)\
+*Entropy, 2024* (with Hedibert Lopes).
     
 ## Work in Progress
 - **Nowcasting intraday volatility**\
