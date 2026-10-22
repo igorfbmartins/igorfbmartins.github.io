@@ -36,10 +36,6 @@ redirect_from:
 (with Miguel Bandeira)
 - **Two is better than one: VAR with realized and stochastic skewness in mean**\
 (with Alessandro Celani)
-- **Dynamic momentum learning**\
-(with Bruno Levy and Hedibert Lopes)
 - **Bayesian predictive synthesis for binary outcomes**
-- **Unrestricted order-invariant dynamic combination of covariance matrices**
-- **Portfolio Management in an Eventful World**
 <!--- - **Volume-driven time series predictability: Evidence from futures markets**
 (with Andre Portela Santos, Audrone Virbickaite and Martina Zaharieva ) -->
