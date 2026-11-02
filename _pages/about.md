@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a **postdoctoral researcher** in financial econometrics at [Örebro University](https://www.oru.se/) where my research focuses on developing and applying **Bayesian econometrics** methods to finance and macroeconomics. I'm also one of the organizers of the [Örebro Workshop on Macro and Financial Econometrics](https://www.oru.se/institutioner/handelshogskolan/forskning/konferenser/2025-orebro-workshop-on-macro--and-financial-econometrics/).
+I am an **assistant professor** at [Örebro University](https://www.oru.se/), where my research focuses on developing and applying **Bayesian econometric methods** to finance and macroeconomics. I am also one of the organizers of the [Örebro Workshop on Macro and Financial Econometrics](https://www.oru.se/institutioner/handelshogskolan/forskning/konferenser/2026-orebro-workshop-on-macro--and-financial-econometrics/).
 
-Prior to joining Örebro University, I completed my PhD at Insper under the supervision of [Hedibert Lopes](https://hedibert.org/). 
+Previously, I was a postdoctoral researcher in financial econometrics at Örebro University. Before joining Örebro University, I completed my PhD at Insper under the supervision of [Hedibert Lopes](https://hedibert.org/). 
 
-Feel free to reach out at igor.ferreira-batista-martins@oru.se.
+Feel free to reach out to me at igor.ferreira-batista-martins@oru.se.
